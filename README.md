@@ -1,2 +1,2 @@
 # introduccion
-Repositorio de introducción
+Repositorio de introducción de Git HUB
